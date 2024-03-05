@@ -1,0 +1,19 @@
+*{margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+font-family: sans-serif;}
+body{background-color: #ccc;}
+.Container{max-width: 900px;    
+margin: 0 auto;
+}
+.content{max-width: 600px;
+background-color: #ffffff;
+margin: 0 auto;
+margin-top: 20px;
+padding: 20px;
+box-shadow: 4px 3px 3px rgba(1, 1, 1, 0.1);
+border-radius: 10px;}
+span{font-size: 20px;
+font-weight: 600;
+color: blue;}
+
